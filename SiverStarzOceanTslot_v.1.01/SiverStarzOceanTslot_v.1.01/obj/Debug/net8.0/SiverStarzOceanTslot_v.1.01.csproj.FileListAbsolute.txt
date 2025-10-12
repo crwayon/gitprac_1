@@ -1,0 +1,15 @@
+C:\Users\user\UnrealProject\gitprac_1\SiverStarzOceanTslot_v.1.01\SiverStarzOceanTslot_v.1.01\bin\Debug\net8.0\SiverStarzOceanTslot_v.1.01.exe
+C:\Users\user\UnrealProject\gitprac_1\SiverStarzOceanTslot_v.1.01\SiverStarzOceanTslot_v.1.01\bin\Debug\net8.0\SiverStarzOceanTslot_v.1.01.deps.json
+C:\Users\user\UnrealProject\gitprac_1\SiverStarzOceanTslot_v.1.01\SiverStarzOceanTslot_v.1.01\bin\Debug\net8.0\SiverStarzOceanTslot_v.1.01.runtimeconfig.json
+C:\Users\user\UnrealProject\gitprac_1\SiverStarzOceanTslot_v.1.01\SiverStarzOceanTslot_v.1.01\bin\Debug\net8.0\SiverStarzOceanTslot_v.1.01.dll
+C:\Users\user\UnrealProject\gitprac_1\SiverStarzOceanTslot_v.1.01\SiverStarzOceanTslot_v.1.01\bin\Debug\net8.0\SiverStarzOceanTslot_v.1.01.pdb
+C:\Users\user\UnrealProject\gitprac_1\SiverStarzOceanTslot_v.1.01\SiverStarzOceanTslot_v.1.01\obj\Debug\net8.0\SiverStarzOceanTslot_v.1.01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\UnrealProject\gitprac_1\SiverStarzOceanTslot_v.1.01\SiverStarzOceanTslot_v.1.01\obj\Debug\net8.0\SiverStarzOceanTslot_v.1.01.AssemblyInfoInputs.cache
+C:\Users\user\UnrealProject\gitprac_1\SiverStarzOceanTslot_v.1.01\SiverStarzOceanTslot_v.1.01\obj\Debug\net8.0\SiverStarzOceanTslot_v.1.01.AssemblyInfo.cs
+C:\Users\user\UnrealProject\gitprac_1\SiverStarzOceanTslot_v.1.01\SiverStarzOceanTslot_v.1.01\obj\Debug\net8.0\SiverStarzOceanTslot_v.1.01.csproj.CoreCompileInputs.cache
+C:\Users\user\UnrealProject\gitprac_1\SiverStarzOceanTslot_v.1.01\SiverStarzOceanTslot_v.1.01\obj\Debug\net8.0\SiverStarzOceanTslot_v.1.01.sourcelink.json
+C:\Users\user\UnrealProject\gitprac_1\SiverStarzOceanTslot_v.1.01\SiverStarzOceanTslot_v.1.01\obj\Debug\net8.0\SiverStarzOceanTslot_v.1.01.dll
+C:\Users\user\UnrealProject\gitprac_1\SiverStarzOceanTslot_v.1.01\SiverStarzOceanTslot_v.1.01\obj\Debug\net8.0\refint\SiverStarzOceanTslot_v.1.01.dll
+C:\Users\user\UnrealProject\gitprac_1\SiverStarzOceanTslot_v.1.01\SiverStarzOceanTslot_v.1.01\obj\Debug\net8.0\SiverStarzOceanTslot_v.1.01.pdb
+C:\Users\user\UnrealProject\gitprac_1\SiverStarzOceanTslot_v.1.01\SiverStarzOceanTslot_v.1.01\obj\Debug\net8.0\SiverStarzOceanTslot_v.1.01.genruntimeconfig.cache
+C:\Users\user\UnrealProject\gitprac_1\SiverStarzOceanTslot_v.1.01\SiverStarzOceanTslot_v.1.01\obj\Debug\net8.0\ref\SiverStarzOceanTslot_v.1.01.dll

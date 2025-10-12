@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9reels_1set_v.0.01", "9reels_1set_v.0.01\9reels_1set_v.0.01.csproj", "{12ECFC43-4943-4AE7-B7A7-D66D8050EC11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12ECFC43-4943-4AE7-B7A7-D66D8050EC11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12ECFC43-4943-4AE7-B7A7-D66D8050EC11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12ECFC43-4943-4AE7-B7A7-D66D8050EC11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12ECFC43-4943-4AE7-B7A7-D66D8050EC11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D6B5B03-3132-4458-B501-9C60BF52B05B}
+	EndGlobalSection
+EndGlobal
